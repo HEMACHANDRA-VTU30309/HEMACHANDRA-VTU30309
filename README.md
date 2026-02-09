@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi 👋, I'm Hemachandra Talluri
 
-<!--
-**TalluriHemachandra07/TalluriHemachandra07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Aspiring Software Developer | Web Development & Databases  
+💻 Passionate about building clean, functional, and scalable applications  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🌱 Currently learning **Full Stack Web Development**
+- 🛠️ Working with **HTML, CSS, JavaScript, MySQL**
+- 📚 Interested in **Backend Development & Databases**
+- 🎯 Goal: Become a professional software engineer
+
+---
+
+## 🛠️ Skills & Tools
+- **Languages:** HTML, CSS, JavaScript, Python, Java  
+- **Database:** MySQL  
+- **Tools:** Git, GitHub, VS Code, MySQL Workbench  
+- **Concepts:** SQL Joins, Functions, OOP, Data Structures
+
+---
+
+## 📂 Projects
+🔹 **Order Management System**  
+- SQL-based project using JOINs & subqueries  
+- Displays customer order history  
+
+🔹 **Personal Vlog Website**  
+- Built using HTML & CSS  
+- Includes inline, internal, and external CSS  
+
+🔹 **Text Preprocessing using Python & NLTK**  
+- Removed symbols, stopwords, and HTML tags  
+
+👉 More projects coming soon...
+
+---
+
+## 📫 Connect With Me
+- GitHub: https://github.com/your-username  
+- Email: your-email@gmail.com  
+
+---
+
+⭐ Feel free to explore my repositories and give a star if you like my work!
