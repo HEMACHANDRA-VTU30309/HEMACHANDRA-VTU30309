@@ -38,8 +38,8 @@
 ---
 
 ## 📫 Connect With Me
-- GitHub: https://github.com/your-username  
-- Email: your-email@gmail.com  
+- GitHub: https://github.com/TalluriHemachandra 
+- Email: tallurihemachandra@gmail.com  
 
 ---
 
