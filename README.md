@@ -1,4 +1,4 @@
-# Hi 👋, I'm Hemachandra Talluri
+# Hi, I'm Hemachandra Talluri
 
 🎓 Aspiring Software Developer | Web Development & Databases  
 💻 Passionate about building clean, functional, and scalable applications  
